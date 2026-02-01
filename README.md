@@ -1,9 +1,3 @@
-Sure 😊
-Here’s a **clean, student-friendly GitHub README** you can directly copy–paste.
-(It’s perfect for **SQL / assignment / beginner projects**.)
-
----
-
 # 📘 SQL Assignment Project
 
 ## 📌 Project Description
